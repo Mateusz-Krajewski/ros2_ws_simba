@@ -1,0 +1,2 @@
+uint32 sensor_id
+float64 sensor_value
