@@ -36,9 +36,23 @@
 | 101 | temp controller | |
 | 103 | servo controller | |
 | 104 | gpio controller | |
+| 105 | adc controller | |
 
 ## Sensors
+0-99 - ADC channel
 100-199 - temperatura
 200-299 - ciśnienie
 300-399 - róż ciśnienia
 400-499 - tenso
+
+
+| id | board| adc | channel |
+| --- | --- | --- | --- |
+| 0 | Engine | 0 | 0 |
+| 1 | Engine | 0 | 1 |
+| 2 | Engine | 0 | 2 |
+| 3 | Engine | 0 | 3 |
+| 4 | Engine | 0 | 4 |
+| 5 | Engine | 0 | 5 |
+| 6 | Engine | 0 | 6 |
+| 7 | Engine | 0 | 7 |
